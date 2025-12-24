@@ -1,1 +1,2 @@
 # Expense-Tracker
+Expense Tracker is a Python-based command-line application that helps users record, manage, and analyze daily expenses. The project uses Pandas for data handling, NumPy for basic statistical analysis, and Matplotlib for visualizing spending patterns. Users can add expenses, view recent transactions, generate monthly summaries, and analyze category-wise and daily spending trends using interactive charts. This project demonstrates practical usage of Python for real-world data processing and visualization.
